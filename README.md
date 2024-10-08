@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Me chamo Pedro, sou Programador Júnior!
 
  <div>
    <a href="https://github.com/Pedroclaro17">
