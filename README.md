@@ -1,4 +1,4 @@
-## Me chamo Pedro, e sou Programador Júnior!
+## Me chamo Pedro, e sou Programador!
 
  <div>
    <a href="https://github.com/Pedroclaro17">
